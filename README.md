@@ -4,7 +4,6 @@
 
 
 
-
 # Project Overview
 This project analyzes Coffee Shop Sales performance using an interactive dashboard to uncover sales trends, customer behavior, and product performance. The dashboard provides a comprehensive view of total sales, footfall, ordering patterns, and category-wise performance across store locations, time, and order sizes to support data-driven business decisions.
 
