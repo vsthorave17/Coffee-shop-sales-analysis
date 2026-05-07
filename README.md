@@ -9,10 +9,13 @@ This project analyzes Coffee Shop Sales performance using an interactive dashboa
 
 
 # Problem Statement:
-1) Peak sales hours and customer footfall trends.
-2)Best-performing products, categories, and store locations.
-3)Customer order size and purchasing behavior.
-4)Sales variation across weekdays and time periods.
+The coffee shop lacked a clear, consolidated view of its sales data to understand customer behavior, product performance, and store-level trends. This made it difficult for management to optimize staffing, inventory, and promotions. The project aims to convert raw sales data into an interactive dashboard that enables quick insights and data-driven decision‑making.
+
+Data Source: Kaggle Dataset.
+
+# Tools Used:
+Microsoft Excel, Pivot Tables, Pivot Charts, Slicers & Filters, DAX, Dashboard Design Techniques
+
 
 # Key Insights:
 
